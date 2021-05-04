@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "53CBD6D5-0152-44C6-B4A5-016AA293D0D7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D819A9B-69E0-4FA0-9996-23E059FEC96F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Binary Tree/binary_tree_node/binary_tree_node.hpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F52FA5B9-912D-42F5-A7F9-74FBA99909DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Binary Tree/binary_tree_node/binary_tree_node.hpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "BinaryTreeNode"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F52FA5B9-912D-42F5-A7F9-74FBA99909DA - a424b1806ba267f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BinaryTreeNode&lt;double&gt;::BinaryTreeNode(double const&amp;, BinaryTreeNode&lt;double&gt;*)"
+                  moduleName = "Binary Tree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laa/prog/Data%20structures%20and%20algorithms%20(Coursera)/Data%20Structures/Trees/Binary%20Tree/Binary%20Tree/binary_tree_node/binary_tree_node.hpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "F52FA5B9-912D-42F5-A7F9-74FBA99909DA - a424b1806ba267f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BinaryTreeNode&lt;double&gt;::BinaryTreeNode(double const&amp;, BinaryTreeNode&lt;double&gt;*)"
+                  moduleName = "Binary Tree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laa/prog/Data%20structures%20and%20algorithms%20(Coursera)/Data%20Structures/Trees/Binary%20Tree/Binary%20Tree/binary_tree_node/binary_tree_node.hpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "F52FA5B9-912D-42F5-A7F9-74FBA99909DA - fd69850edb7ed0a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BinaryTreeNode&lt;int&gt;::BinaryTreeNode(int const&amp;, BinaryTreeNode&lt;int&gt;*)"
+                  moduleName = "Binary Tree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laa/prog/Data%20structures%20and%20algorithms%20(Coursera)/Data%20Structures/Trees/Binary%20Tree/Binary%20Tree/binary_tree_node/binary_tree_node.hpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "F52FA5B9-912D-42F5-A7F9-74FBA99909DA - fd69850edb7ed0a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BinaryTreeNode&lt;int&gt;::BinaryTreeNode(int const&amp;, BinaryTreeNode&lt;int&gt;*)"
+                  moduleName = "Binary Tree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laa/prog/Data%20structures%20and%20algorithms%20(Coursera)/Data%20Structures/Trees/Binary%20Tree/Binary%20Tree/binary_tree_node/binary_tree_node.hpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F3A47C1-0F71-40A5-B6D3-B79CA7E0EA9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Binary Tree/binary_tree_node/binary_tree_node.hpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "BinaryTreeNode"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAA0DDA5-8C68-4BC0-9DE7-6C3A5EF7E9B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Binary Tree/binary_tree_node/binary_tree_node.hpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "BinaryTreeNode"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.RuntimeIssueBreakpoint">
+         <BreakpointContent
+            uuid = "8F492A50-5E79-4FA4-BBC8-EC639C85DD27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            type = "1">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
